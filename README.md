@@ -43,13 +43,13 @@ An AI-based educational platform that automatically generates examination questi
 
 ## Project Structure
 
-1_Teacher_Mode.py
-2_Student_Mode.py
-question_generator.py
-evaluation_engine.py
-pdf_generator.py
-file_utils.py
-requirements.txt
+- 1_Teacher_Mode.py
+- 2_Student_Mode.py
+- question_generator.py
+- evaluation_engine.py
+- pdf_generator.py
+- file_utils.py
+- requirements.txt
 
 ## Installation
 
@@ -63,7 +63,7 @@ streamlit run app.py
 - Learning Management System integration
 - Mobile application
 - Predictive analytics
-- 
+ 
 ## Developer
 
 **Rifa Mariam**
